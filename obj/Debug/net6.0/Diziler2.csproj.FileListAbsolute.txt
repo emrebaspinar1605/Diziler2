@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\Diziler2\bin\Debug\net6.0\Diziler2.exe
+C:\Users\Turku\Desktop\Pratikler\Diziler2\bin\Debug\net6.0\Diziler2.deps.json
+C:\Users\Turku\Desktop\Pratikler\Diziler2\bin\Debug\net6.0\Diziler2.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\Diziler2\bin\Debug\net6.0\Diziler2.dll
+C:\Users\Turku\Desktop\Pratikler\Diziler2\bin\Debug\net6.0\Diziler2.pdb
+C:\Users\Turku\Desktop\Pratikler\Diziler2\obj\Debug\net6.0\Diziler2.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\Diziler2\obj\Debug\net6.0\Diziler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\Diziler2\obj\Debug\net6.0\Diziler2.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Diziler2\obj\Debug\net6.0\Diziler2.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\Diziler2\obj\Debug\net6.0\Diziler2.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Diziler2\obj\Debug\net6.0\Diziler2.dll
+C:\Users\Turku\Desktop\Pratikler\Diziler2\obj\Debug\net6.0\refint\Diziler2.dll
+C:\Users\Turku\Desktop\Pratikler\Diziler2\obj\Debug\net6.0\Diziler2.pdb
+C:\Users\Turku\Desktop\Pratikler\Diziler2\obj\Debug\net6.0\Diziler2.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\Diziler2\obj\Debug\net6.0\ref\Diziler2.dll
